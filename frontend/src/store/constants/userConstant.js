@@ -1,0 +1,7 @@
+
+export const userConstant={
+       GET_USER_LOADING:'GET_USER_LOADING',
+       GET_USER_SUCESS:'GET_USER_SUCESS:',
+       GET_USER_FAIL:'GET_USER_FAIL',
+       LOG_OUT_USER:'LOG_OUT_USER',
+}
